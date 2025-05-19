@@ -1,7 +1,8 @@
+
+							<!-- Created by Sagar <3 -->
+
+       
 <h1 align="center">Hi 🌺, I'm Sagar !</h1> 
-
-	
-
 
 <p align="center">
 	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&center=true&vCenter=true&width=420&height=45&lines=Developer+and+enthusiast;Scripting+%7C+Deployment+%7C+Pentesting;Always+learning+new+technologies" alt="Typing SVG" /></a>
