@@ -6,11 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/sagar_now" target="blank"><img src="https://img.shields.io/twitter/follow/sagar_now?logo=twitter&style=for-the-badge" alt="sagar_now" /></a> <img src = "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ25rbDV3bjh1ZHJ3ZHBidjQxOHl2bW5rcnB6cXIyeGl6aHFmNjFkNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Zebztgv7jmkoLe1DoY/giphy.gif" width = 32px> </h1> </p>
 
-- 🔭 I’m currently working on **Spinly**
 
-- 🌱 I’m currently learning **Javascript , react js**
-
-- 📫 How to reach me **sagaronlyy@gmail.com**
  
 # <img src = "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY29yMWZhd2F0anlldG13aDF0c3hzb3VvaWs3dndmN2t5cmx5ZXhtdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/wj5DGHqqBJnQKwUwjv/giphy.gif" width = 50px> Socials:  
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/4SkqhNS39A) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mrsagarsingh) 
