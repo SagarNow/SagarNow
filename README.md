@@ -6,7 +6,7 @@
 
 
 
- ### **I write code. Sometimes it works, mostly it teaches. Not a 10x developer, but I Google like a pro. Sometimes, I don’t fix bugs I disable features creatively.😏💖**
+  **I write code. Sometimes it works, mostly it teaches. Not a 10x developer, but I Google like a pro. Sometimes, I don’t fix bugs I disable features creatively.😏💖**
 
 <p align="center"> <samp>
 <a href="https://discord.gg/4SkqhNS39A">Discord</a> .
